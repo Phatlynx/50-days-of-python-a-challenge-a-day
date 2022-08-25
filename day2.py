@@ -1,4 +1,4 @@
-# write a function called convert_add that takes a list of strings as an argument and converts it to integers and sums the list
+# write a function called convert_add that takes a list of strings as an argument and converts it to integers and sums the list.
 def convert_add(list):
     return sum(map(int, list))
 
