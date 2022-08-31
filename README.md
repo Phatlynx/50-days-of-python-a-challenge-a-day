@@ -2,6 +2,8 @@
 
 50 Days of Python - A Challenge A Day by Benjamin Bennett Alexander
 
+Support the author by visiting his site: <https://benjaminb.gumroad.com/l/zybjn>
+
 ## Why solve challenges?
 
 A programmer’s job is to write code to solve problems. When you solve
